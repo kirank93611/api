@@ -65,7 +65,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'flexamarket.urls'
+ROOT_URLCONF = 'djackets_django.urls'
 
 TEMPLATES = [
     {
