@@ -52,6 +52,7 @@ INSTALLED_APPS = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:8000",
+    # "https://flexamarket-api.herokuapp.com/",
 ]
 
 MIDDLEWARE = [
