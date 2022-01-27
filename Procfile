@@ -1,4 +1,4 @@
 release: python manage.py makemigrations
-release: python manage.py runserver
+release: python manage.py migrate
 
-web: gunicorn wsgi:application
+web: gunicorn flexamarket-api.wsgi
