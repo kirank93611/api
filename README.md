@@ -1,6 +1,5 @@
 # djackets_django
 
-Yukesh
 firstly download this api code and :
 1.pip install -r requirements.txt
 
